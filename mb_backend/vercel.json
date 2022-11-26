@@ -3,7 +3,7 @@
 "buils": [
 
     {
-        "src": "./index.js",
+        "src": "./database.js",
         "use": "@vercel/node"
     }
 
